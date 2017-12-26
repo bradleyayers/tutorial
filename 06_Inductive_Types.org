@@ -354,7 +354,7 @@ end hide
 (To run these examples, we put them in a namespace called =hide=, so
 that a name like =bool= does not conflict with the =bool= in the
 standard library. This is necessary because these types are part of
-the Lean "prelude" that is automatically imported with the system is
+the Lean "prelude" that is automatically imported when the system is
 started.)
 
 The type =empty= is an inductive datatype with no constructors. The
